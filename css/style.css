@@ -240,8 +240,9 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background-image: url("../images/coding.png") repeat scroll center center / cover;
-  height: 100vh;
+  background-image: url("../images/coding.png");
+  background-repeat: no-repeat;
+  height: 74vh;
   width: 100%;
 }
 
