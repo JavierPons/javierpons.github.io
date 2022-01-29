@@ -240,9 +240,9 @@ nav ul li a {
 /*-----------------------------------------------------------------------------------*/
 
 #header {
-  background-image: url("../images/coding.png");
+  background-color: black /* url("../images/coding.png")*/;
   background-repeat: no-repeat;
-  height: 74vh;
+  height: 50vh;
   width: 100%;
 }
 
